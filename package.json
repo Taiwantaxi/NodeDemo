@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"    
   },
+  "repository": "git@github.com:Taiwantaxi/NodeDemo.git",  
   "author": "brown",
   "license": "MIT",
   "dependencies": {
